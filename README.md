@@ -13,7 +13,4 @@
   <a href="https://linkedin.com/in/brunorphl" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkedin" height="90" width="90" /></a>
 </p>
 
-&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=brscherer&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
