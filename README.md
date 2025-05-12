@@ -5,7 +5,7 @@
 <img align="right" src="https://github.com/user-attachments/assets/bf6dd599-717b-4fb4-ab20-740b67bc5c29" width="500">
 
 <h3 align="left">
-  I'm a software engineer based in Brazil, currently working with the React and React Native stack.<br>
+  I'm a software engineer based in Brazil, currently working with React and React Native stack.<br>
   I’m passionate about continuous self-improvement and always eager to learn.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
