@@ -15,4 +15,10 @@
   <a href="https://linkedin.com/in/brunorphl" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="linkedin" height="90" width="90" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brscherer&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brscherer&show_icons=true&theme=tokyonight&title_color=00ff00&text_color=00ff00&cache_seconds=1800&locale=en&layout=compact" alt="brscherer" />
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brscherer&theme=tokyonight)](https://git.io/streak-stats)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=brscherer&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) -->
