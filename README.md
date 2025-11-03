@@ -19,6 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brscherer&show_icons=true&theme=tokyonight&title_color=00ff00&text_color=00ff00&cache_seconds=1800&locale=en&layout=compact" alt="brscherer" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brscherer&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brscherer&theme=tokyonight)](https://git.io/streak-stats) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=brscherer&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) -->
